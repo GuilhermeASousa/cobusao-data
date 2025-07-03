@@ -1,9 +1,9 @@
 {
-    "directions": [
+    "trajetos": [
         {
             "direction_id": 1,
             "trip_headsign": "Terminal Alvorada",
-            "shape": [
+            "trajeto": [
                 {
                     "lat": -23.0066,
                     "lon": -43.31258
@@ -605,22 +605,85 @@
                     "lon": -43.36616
                 }
             ],
-            "stops": [
-                "bam4",
-                "4128BO0018U2",
-                "4128BO0016U2",
-                "4128BO0176U2",
-                "4128BO0011U2",
-                "4128BO0019P2",
-                "4128BO0017U2",
-                "4128BO0015U2",
-                "4128BO0014U2"
+            "paradas": [
+                {
+                    "stopId": "4128BO0019P2",
+                    "stopName": "Terminal Jardim Oceânico :: Plataforma A",
+                    "position": {
+                        "lat": -23.0066,
+                        "lon": -43.31258
+                    }
+                },
+                {
+                    "stopId": "4128BO0018U2",
+                    "stopName": "Bosque Marapendi",
+                    "position": {
+                        "lat": -23.00327,
+                        "lon": -43.3239
+                    }
+                },
+                {
+                    "stopId": "4128BO0017U2",
+                    "stopName": "Paulo Malta Rezende",
+                    "position": {
+                        "lat": -23.00124,
+                        "lon": -43.32906
+                    }
+                },
+                {
+                    "stopId": "4128BO0016U2",
+                    "stopName": "Afrânio Costa - Teatro Nathalia Timberg",
+                    "position": {
+                        "lat": -23.00052,
+                        "lon": -43.33515
+                    }
+                },
+                {
+                    "stopId": "4128BO0015U2",
+                    "stopName": "Riviera",
+                    "position": {
+                        "lat": -23.00021,
+                        "lon": -43.34202
+                    }
+                },
+                {
+                    "stopId": "4128BO0014U2",
+                    "stopName": "Ricardo Marinho",
+                    "position": {
+                        "lat": -23.00011,
+                        "lon": -43.34654
+                    }
+                },
+                {
+                    "stopId": "4128BO0176U2",
+                    "stopName": "Parque das Rosas",
+                    "position": {
+                        "lat": -23.000013,
+                        "lon": -43.352481
+                    }
+                },
+                {
+                    "stopId": "4128BO0011U2",
+                    "stopName": "Barra Shopping - Parador",
+                    "position": {
+                        "lat": -22.99993,
+                        "lon": -43.36131
+                    }
+                },
+                {
+                    "stopId": "bam4",
+                    "stopName": "Terminal Alvorada :: Plataforma A10",
+                    "position": {
+                        "lat": -23.001087,
+                        "lon": -43.366157
+                    }
+                }
             ]
         },
         {
             "direction_id": 0,
             "trip_headsign": "Jardim Oceânico",
-            "shape": [
+            "trajeto": [
                 {
                     "lat": -23.00101,
                     "lon": -43.366157
@@ -1174,121 +1237,80 @@
                     "lon": -43.31247
                 }
             ],
-            "stops": [
-                "bam4",
-                "4128BO0011U1",
-                "4128BO0013U1",
-                "4128BO0014U1",
-                "4128BO0015U1",
-                "4128BO0016U1",
-                "4128BO0017U1",
-                "4128BO0018U1",
-                "4128BO0019P1"
+            "paradas": [
+                {
+                    "stopId": "bam4",
+                    "stopName": "Terminal Alvorada :: Plataforma A10",
+                    "position": {
+                        "lat": -23.001087,
+                        "lon": -43.366157
+                    }
+                },
+                {
+                    "stopId": "4128BO0011U1",
+                    "stopName": "Barra Shopping - Parador",
+                    "position": {
+                        "lat": -23.00002,
+                        "lon": -43.3613
+                    }
+                },
+                {
+                    "stopId": "4128BO0013U1",
+                    "stopName": "Parque das Rosas",
+                    "position": {
+                        "lat": -23.00011,
+                        "lon": -43.35249
+                    }
+                },
+                {
+                    "stopId": "4128BO0014U1",
+                    "stopName": "Ricardo Marinho",
+                    "position": {
+                        "lat": -23.00022,
+                        "lon": -43.3466
+                    }
+                },
+                {
+                    "stopId": "4128BO0015U1",
+                    "stopName": "Riviera",
+                    "position": {
+                        "lat": -23.0003,
+                        "lon": -43.3421
+                    }
+                },
+                {
+                    "stopId": "4128BO0016U1",
+                    "stopName": "Afrânio Costa - Teatro Nathalia Timberg",
+                    "position": {
+                        "lat": -23.000615,
+                        "lon": -43.335158
+                    }
+                },
+                {
+                    "stopId": "4128BO0017U1",
+                    "stopName": "Paulo Malta Rezende",
+                    "position": {
+                        "lat": -23.00132,
+                        "lon": -43.3291
+                    }
+                },
+                {
+                    "stopId": "4128BO0018U1",
+                    "stopName": "Bosque Marapendi",
+                    "position": {
+                        "lat": -23.00336,
+                        "lon": -43.32396
+                    }
+                },
+                {
+                    "stopId": "4128BO0019P1",
+                    "stopName": "Terminal Jardim Oceânico :: Plataforma B",
+                    "position": {
+                        "lat": -23.00675,
+                        "lon": -43.31246
+                    }
+                }
             ]
         }
-    ],
-    "all_stops_details": {
-        "bam4": {
-            "id": "bam4",
-            "name": "Terminal Alvorada :: Plataforma A10",
-            "lat": -23.001087,
-            "lon": -43.366157
-        },
-        "4128BO0018U2": {
-            "id": "4128BO0018U2",
-            "name": "Bosque Marapendi",
-            "lat": -23.00327,
-            "lon": -43.3239
-        },
-        "4128BO0016U2": {
-            "id": "4128BO0016U2",
-            "name": "Afrânio Costa - Teatro Nathalia Timberg",
-            "lat": -23.00052,
-            "lon": -43.33515
-        },
-        "4128BO0176U2": {
-            "id": "4128BO0176U2",
-            "name": "Parque das Rosas",
-            "lat": -23.000013,
-            "lon": -43.352481
-        },
-        "4128BO0011U2": {
-            "id": "4128BO0011U2",
-            "name": "Barra Shopping - Parador",
-            "lat": -22.99993,
-            "lon": -43.36131
-        },
-        "4128BO0019P2": {
-            "id": "4128BO0019P2",
-            "name": "Terminal Jardim Oceânico :: Plataforma A",
-            "lat": -23.0066,
-            "lon": -43.31258
-        },
-        "4128BO0017U2": {
-            "id": "4128BO0017U2",
-            "name": "Paulo Malta Rezende",
-            "lat": -23.00124,
-            "lon": -43.32906
-        },
-        "4128BO0015U2": {
-            "id": "4128BO0015U2",
-            "name": "Riviera",
-            "lat": -23.00021,
-            "lon": -43.34202
-        },
-        "4128BO0014U2": {
-            "id": "4128BO0014U2",
-            "name": "Ricardo Marinho",
-            "lat": -23.00011,
-            "lon": -43.34654
-        },
-        "4128BO0011U1": {
-            "id": "4128BO0011U1",
-            "name": "Barra Shopping - Parador",
-            "lat": -23.00002,
-            "lon": -43.3613
-        },
-        "4128BO0013U1": {
-            "id": "4128BO0013U1",
-            "name": "Parque das Rosas",
-            "lat": -23.00011,
-            "lon": -43.35249
-        },
-        "4128BO0014U1": {
-            "id": "4128BO0014U1",
-            "name": "Ricardo Marinho",
-            "lat": -23.00022,
-            "lon": -43.3466
-        },
-        "4128BO0015U1": {
-            "id": "4128BO0015U1",
-            "name": "Riviera",
-            "lat": -23.0003,
-            "lon": -43.3421
-        },
-        "4128BO0016U1": {
-            "id": "4128BO0016U1",
-            "name": "Afrânio Costa - Teatro Nathalia Timberg",
-            "lat": -23.000615,
-            "lon": -43.335158
-        },
-        "4128BO0017U1": {
-            "id": "4128BO0017U1",
-            "name": "Paulo Malta Rezende",
-            "lat": -23.00132,
-            "lon": -43.3291
-        },
-        "4128BO0018U1": {
-            "id": "4128BO0018U1",
-            "name": "Bosque Marapendi",
-            "lat": -23.00336,
-            "lon": -43.32396
-        },
-        "4128BO0019P1": {
-            "id": "4128BO0019P1",
-            "name": "Terminal Jardim Oceânico :: Plataforma B",
-            "lat": -23.00675,
-            "lon": -43.31246
-        }
-    }
+    ]
 }
