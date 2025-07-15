@@ -1162,6 +1162,10 @@
       "weekday_offpeak": {
         "avg_time_sec": 60,
         "data_points": 1
+      },
+      "weekday_day": {
+        "avg_time_sec": 30,
+        "data_points": 1
       }
     },
     "5139O00212C9_5139O00213C9": {
@@ -1223,7 +1227,7 @@
       },
       "weekday_day": {
         "avg_time_sec": 30,
-        "data_points": 1
+        "data_points": 2
       }
     },
     "5137O00032C9_x451": {
@@ -1756,6 +1760,10 @@
       "weekday_offpeak": {
         "avg_time_sec": 28,
         "data_points": 1
+      },
+      "weekday_day": {
+        "avg_time_sec": 30,
+        "data_points": 1
       }
     },
     "5140O00041C9_5139O00179C9": {
@@ -1901,7 +1909,7 @@
     "5140O00035C9_5140O00036C9": {
       "weekday_morning_peak": {
         "avg_time_sec": 30,
-        "data_points": 1
+        "data_points": 2
       }
     },
     "5139O00136C0_5139O00137C0": {
