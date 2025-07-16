@@ -2,8 +2,12 @@
   "0": {
     "3090O00060C0_3090O00003C0": {
       "weekday_offpeak": {
-        "avg_time_sec": 30,
-        "data_points": 1
+        "avg_time_sec": 22,
+        "data_points": 2
+      },
+      "weekend": {
+        "avg_time_sec": 20,
+        "data_points": 3
       }
     },
     "3083O00016C0_3083O00081C0": {
@@ -18,14 +22,14 @@
     },
     "1010O00057C0_1010O00058C0": {
       "weekend": {
-        "avg_time_sec": 31,
-        "data_points": 1
+        "avg_time_sec": 30,
+        "data_points": 4
       }
     },
     "1012O00035C9_1012O00036C9": {
       "weekend": {
-        "avg_time_sec": 31,
-        "data_points": 1
+        "avg_time_sec": 41,
+        "data_points": 6
       },
       "weekday_offpeak": {
         "avg_time_sec": 30,
@@ -34,8 +38,8 @@
     },
     "1002O00012C2_1002O00013C0": {
       "weekend": {
-        "avg_time_sec": 30,
-        "data_points": 2
+        "avg_time_sec": 28,
+        "data_points": 7
       },
       "weekday_offpeak": {
         "avg_time_sec": 30,
@@ -52,6 +56,10 @@
       "weekday_offpeak": {
         "avg_time_sec": 30,
         "data_points": 2
+      },
+      "weekend": {
+        "avg_time_sec": 16,
+        "data_points": 5
       }
     },
     "1012O00039C0_1012O00036C9": {
@@ -70,14 +78,18 @@
         "data_points": 1
       },
       "weekend": {
-        "avg_time_sec": 31,
-        "data_points": 1
+        "avg_time_sec": 30,
+        "data_points": 6
       }
     },
     "3071O00033C2_3071O00004C2": {
       "weekday_offpeak": {
         "avg_time_sec": 30,
         "data_points": 1
+      },
+      "weekend": {
+        "avg_time_sec": 38,
+        "data_points": 3
       }
     },
     "3071O00005C2_3066O00003C2": {
@@ -90,12 +102,20 @@
       "weekday_offpeak": {
         "avg_time_sec": 30,
         "data_points": 3
+      },
+      "weekend": {
+        "avg_time_sec": 77,
+        "data_points": 5
       }
     },
     "1002O00013C0_1001O00006C0": {
       "weekday_offpeak": {
-        "avg_time_sec": 31,
-        "data_points": 1
+        "avg_time_sec": 29,
+        "data_points": 2
+      },
+      "weekend": {
+        "avg_time_sec": 54,
+        "data_points": 5
       }
     },
     "1012O00036C9_1010O00066C0": {
@@ -119,10 +139,516 @@
     "1005O00239C0_1005O00364C0": {
       "weekday_offpeak": {
         "avg_time_sec": 30,
-        "data_points": 2
+        "data_points": 3
+      },
+      "weekend": {
+        "avg_time_sec": 44,
+        "data_points": 3
       }
     },
     "1012O00037C0_1012O00038C0": {
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      },
+      "weekend": {
+        "avg_time_sec": 22,
+        "data_points": 5
+      }
+    },
+    "3090O00055C0_3090O00057C0": {
+      "weekend": {
+        "avg_time_sec": 54,
+        "data_points": 3
+      }
+    },
+    "3090O00057C0_3090O00058C0": {
+      "weekend": {
+        "avg_time_sec": 19,
+        "data_points": 4
+      }
+    },
+    "3090O00058C0_3087O00007C0": {
+      "weekend": {
+        "avg_time_sec": 13,
+        "data_points": 6
+      }
+    },
+    "3087O00007C0_3087O00016C0": {
+      "weekend": {
+        "avg_time_sec": 42,
+        "data_points": 2
+      }
+    },
+    "3089O00067C0_3088O00031C0": {
+      "weekend": {
+        "avg_time_sec": 48,
+        "data_points": 1
+      }
+    },
+    "3088O00031C0_3088O00032C0": {
+      "weekend": {
+        "avg_time_sec": 22,
+        "data_points": 2
+      }
+    },
+    "3088O00032C0_3088O00033C0": {
+      "weekend": {
+        "avg_time_sec": 46,
+        "data_points": 1
+      }
+    },
+    "3088O00033C0_3085O00027C0": {
+      "weekend": {
+        "avg_time_sec": 48,
+        "data_points": 3
+      }
+    },
+    "3085O00027C0_3085O00007C0": {
+      "weekend": {
+        "avg_time_sec": 25,
+        "data_points": 2
+      }
+    },
+    "3083O00005C0_3083O00016C0": {
+      "weekend": {
+        "avg_time_sec": 25,
+        "data_points": 3
+      }
+    },
+    "3083O00016C0_3083O00072C0": {
+      "weekend": {
+        "avg_time_sec": 15,
+        "data_points": 5
+      }
+    },
+    "3083O00072C0_3083O00081C0": {
+      "weekend": {
+        "avg_time_sec": 35,
+        "data_points": 4
+      }
+    },
+    "3083O00081C0_3083O00082C0": {
+      "weekend": {
+        "avg_time_sec": 37,
+        "data_points": 4
+      }
+    },
+    "3083O00082C0_3083O00083C0": {
+      "weekend": {
+        "avg_time_sec": 57,
+        "data_points": 4
+      }
+    },
+    "3083O00083C0_3082O00054C0": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 4
+      }
+    },
+    "3082O00054C0_3082O00041C1": {
+      "weekend": {
+        "avg_time_sec": 18,
+        "data_points": 4
+      }
+    },
+    "3082O00041C1_3082O00004C1": {
+      "weekend": {
+        "avg_time_sec": 38,
+        "data_points": 3
+      }
+    },
+    "3082O00004C1_3082O00005C2": {
+      "weekend": {
+        "avg_time_sec": 23,
+        "data_points": 3
+      }
+    },
+    "3082O00005C2_3079O00001C2": {
+      "weekend": {
+        "avg_time_sec": 43,
+        "data_points": 2
+      }
+    },
+    "3079O00001C2_3079O00002C2": {
+      "weekend": {
+        "avg_time_sec": 37,
+        "data_points": 5
+      }
+    },
+    "3079O00002C2_3079O00041C2": {
+      "weekend": {
+        "avg_time_sec": 21,
+        "data_points": 3
+      }
+    },
+    "3079O00041C2_3079O00040C2": {
+      "weekend": {
+        "avg_time_sec": 29,
+        "data_points": 3
+      }
+    },
+    "3079O00040C2_3079O00042C2": {
+      "weekend": {
+        "avg_time_sec": 25,
+        "data_points": 2
+      }
+    },
+    "3079O00042C2_3069O00057C2": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 2
+      }
+    },
+    "3069O00057C2_3069O00058C2": {
+      "weekend": {
+        "avg_time_sec": 28,
+        "data_points": 4
+      }
+    },
+    "3069O00058C2_3069O00003C2": {
+      "weekend": {
+        "avg_time_sec": 34,
+        "data_points": 5
+      }
+    },
+    "3069O00003C2_3070O00001C2": {
+      "weekend": {
+        "avg_time_sec": 37,
+        "data_points": 5
+      }
+    },
+    "3070O00001C2_3071O00033C2": {
+      "weekend": {
+        "avg_time_sec": 29,
+        "data_points": 3
+      }
+    },
+    "3071O00004C2_3071O00005C2": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 4
+      }
+    },
+    "3071O00005C2_3071O00006C2": {
+      "weekend": {
+        "avg_time_sec": 48,
+        "data_points": 5
+      }
+    },
+    "3071O00006C2_3066O00003C2": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 4
+      }
+    },
+    "3066O00003C2_3064O00002C0": {
+      "weekend": {
+        "avg_time_sec": 53,
+        "data_points": 5
+      }
+    },
+    "3064O00002C0_3065O00001C0": {
+      "weekend": {
+        "avg_time_sec": 48,
+        "data_points": 3
+      }
+    },
+    "3065O00001C0_3065O00003C0": {
+      "weekend": {
+        "avg_time_sec": 49,
+        "data_points": 3
+      }
+    },
+    "3065O00004C0_3065O00005C0": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 3
+      }
+    },
+    "3065O00005C0_3053O00006C0": {
+      "weekend": {
+        "avg_time_sec": 32,
+        "data_points": 5
+      }
+    },
+    "3053O00006C0_3053O00007C0": {
+      "weekend": {
+        "avg_time_sec": 26,
+        "data_points": 4
+      }
+    },
+    "3053O00007C0_3053O00008C0": {
+      "weekend": {
+        "avg_time_sec": 57,
+        "data_points": 4
+      }
+    },
+    "3053O00008C0_3052O00001C0": {
+      "weekend": {
+        "avg_time_sec": 23,
+        "data_points": 5
+      }
+    },
+    "3052O00001C0_3052O00002C1": {
+      "weekend": {
+        "avg_time_sec": 14,
+        "data_points": 1
+      }
+    },
+    "3155O00002C0_3155O00003C0": {
+      "weekend": {
+        "avg_time_sec": 36,
+        "data_points": 3
+      }
+    },
+    "3155O00003C0_1012O00011C0": {
+      "weekend": {
+        "avg_time_sec": 63,
+        "data_points": 5
+      }
+    },
+    "1012O00011C0_1012O00012C0": {
+      "weekend": {
+        "avg_time_sec": 15,
+        "data_points": 5
+      }
+    },
+    "1012O00012C0_1012O00013C0": {
+      "weekend": {
+        "avg_time_sec": 21,
+        "data_points": 4
+      }
+    },
+    "1012O00013C0_1012O00037C0": {
+      "weekend": {
+        "avg_time_sec": 32,
+        "data_points": 4
+      }
+    },
+    "1012O00038C0_1012O00039C0": {
+      "weekend": {
+        "avg_time_sec": 36,
+        "data_points": 3
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 26,
+        "data_points": 1
+      }
+    },
+    "1012O00039C0_1012O00035C9": {
+      "weekend": {
+        "avg_time_sec": 18,
+        "data_points": 4
+      }
+    },
+    "1012O00036C9_1011O00012C9": {
+      "weekend": {
+        "avg_time_sec": 55,
+        "data_points": 2
+      }
+    },
+    "1011O00012C9_1010O00067C9": {
+      "weekend": {
+        "avg_time_sec": 31,
+        "data_points": 1
+      }
+    },
+    "1010O00070C9_1010O00112C9": {
+      "weekend": {
+        "avg_time_sec": 35,
+        "data_points": 2
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 14,
+        "data_points": 1
+      }
+    },
+    "1010O00058C0_1010O00049C0": {
+      "weekend": {
+        "avg_time_sec": 41,
+        "data_points": 4
+      }
+    },
+    "7uqu_1003O00020C0": {
+      "weekend": {
+        "avg_time_sec": 95,
+        "data_points": 5
+      }
+    },
+    "1003O00020C0_1003O00067C2": {
+      "weekend": {
+        "avg_time_sec": 64,
+        "data_points": 4
+      }
+    },
+    "1003O00067C2_1002O00012C2": {
+      "weekend": {
+        "avg_time_sec": 61,
+        "data_points": 5
+      }
+    },
+    "1002O00007C0_1005O00140C0": {
+      "weekend": {
+        "avg_time_sec": 12,
+        "data_points": 5
+      }
+    },
+    "1005O00090C0_1005O00198C0": {
+      "weekend": {
+        "avg_time_sec": 78,
+        "data_points": 5
+      }
+    },
+    "1005O00198C0_1005O00258C0": {
+      "weekend": {
+        "avg_time_sec": 85,
+        "data_points": 5
+      }
+    },
+    "1005O00258C0_1005O00254C0": {
+      "weekend": {
+        "avg_time_sec": 75,
+        "data_points": 5
+      }
+    },
+    "1005O00254C0_1005O00239C0": {
+      "weekend": {
+        "avg_time_sec": 112,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 76,
+        "data_points": 1
+      }
+    },
+    "3090O00003C0_3090O00004C0": {
+      "weekend": {
+        "avg_time_sec": 38,
+        "data_points": 3
+      }
+    },
+    "3089O00067C0_3089O00029C0": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 3
+      }
+    },
+    "3089O00029C0_3088O00031C0": {
+      "weekend": {
+        "avg_time_sec": 14,
+        "data_points": 3
+      }
+    },
+    "3065O00001C0_3065O00004C0": {
+      "weekend": {
+        "avg_time_sec": 120,
+        "data_points": 1
+      }
+    },
+    "1012O00012C0_1012O00037C0": {
+      "weekend": {
+        "avg_time_sec": 53,
+        "data_points": 1
+      }
+    },
+    "1010O00049C0_1010O00050C0": {
+      "weekend": {
+        "avg_time_sec": 22,
+        "data_points": 4
+      }
+    },
+    "1010O00050C0_7uqu": {
+      "weekend": {
+        "avg_time_sec": 72,
+        "data_points": 2
+      }
+    },
+    "3083O00072C0_3083O00082C0": {
+      "weekend": {
+        "avg_time_sec": 57,
+        "data_points": 1
+      }
+    },
+    "3082O00041C1_3082O00005C2": {
+      "weekend": {
+        "avg_time_sec": 50,
+        "data_points": 2
+      }
+    },
+    "3079O00040C2_3069O00057C2": {
+      "weekend": {
+        "avg_time_sec": 29,
+        "data_points": 1
+      }
+    },
+    "3070O00001C2_3071O00004C2": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3065O00003C0_3065O00004C0": {
+      "weekend": {
+        "avg_time_sec": 28,
+        "data_points": 3
+      }
+    },
+    "3155O00001C0_3155O00002C0": {
+      "weekend": {
+        "avg_time_sec": 31,
+        "data_points": 1
+      }
+    },
+    "3086O00042C0_3089O00067C0": {
+      "weekend": {
+        "avg_time_sec": 20,
+        "data_points": 1
+      }
+    },
+    "3071O00033C2_3071O00005C2": {
+      "weekend": {
+        "avg_time_sec": 66,
+        "data_points": 1
+      }
+    },
+    "3052O00003C0_3155O00001C0": {
+      "weekend": {
+        "avg_time_sec": 27,
+        "data_points": 2
+      }
+    },
+    "1010O00068C9_1010O00070C9": {
+      "weekend": {
+        "avg_time_sec": 25,
+        "data_points": 2
+      }
+    },
+    "3085O00007C0_3083O00005C0": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3083O00082C0_3082O00054C0": {
+      "weekend": {
+        "avg_time_sec": 35,
+        "data_points": 1
+      }
+    },
+    "3064O00002C0_3065O00003C0": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3053O00006C0_3053O00008C0": {
+      "weekend": {
+        "avg_time_sec": 60,
+        "data_points": 1
+      }
+    },
+    "1010O00058C0_1010O00050C0": {
       "weekday_offpeak": {
         "avg_time_sec": 30,
         "data_points": 1
@@ -132,12 +658,12 @@
   "1": {
     "1010O00084C0_1010O00109C0": {
       "weekend": {
-        "avg_time_sec": 30,
-        "data_points": 1
+        "avg_time_sec": 26,
+        "data_points": 5
       },
       "weekday_offpeak": {
-        "avg_time_sec": 30,
-        "data_points": 2
+        "avg_time_sec": 26,
+        "data_points": 3
       }
     },
     "3071O00016C1_3070O00005C1": {
@@ -148,14 +674,22 @@
     },
     "1005O00208C0_1005O00152S0": {
       "weekday_offpeak": {
-        "avg_time_sec": 31,
-        "data_points": 2
+        "avg_time_sec": 68,
+        "data_points": 3
+      },
+      "weekend": {
+        "avg_time_sec": 106,
+        "data_points": 5
       }
     },
     "3071O00036C1_3071O00016C1": {
       "weekday_offpeak": {
         "avg_time_sec": 30,
-        "data_points": 1
+        "data_points": 2
+      },
+      "weekend": {
+        "avg_time_sec": 25,
+        "data_points": 3
       }
     },
     "3082O00014C1_3082O00007C0": {
@@ -168,30 +702,50 @@
       "weekday_offpeak": {
         "avg_time_sec": 31,
         "data_points": 1
+      },
+      "weekend": {
+        "avg_time_sec": 50,
+        "data_points": 5
       }
     },
     "1012O00008C1_1012O00009C1": {
       "weekday_offpeak": {
+        "avg_time_sec": 23,
+        "data_points": 2
+      },
+      "weekend": {
         "avg_time_sec": 30,
-        "data_points": 1
+        "data_points": 2
       }
     },
     "3083O00026C0_3083O00027C0": {
       "weekday_offpeak": {
-        "avg_time_sec": 31,
-        "data_points": 1
+        "avg_time_sec": 41,
+        "data_points": 2
+      },
+      "weekend": {
+        "avg_time_sec": 47,
+        "data_points": 4
       }
     },
     "3082O00007C0_3082O00008C0": {
       "weekday_offpeak": {
         "avg_time_sec": 31,
         "data_points": 1
+      },
+      "weekend": {
+        "avg_time_sec": 22,
+        "data_points": 4
       }
     },
     "3083O00027C0_3083O00028C0": {
       "weekday_offpeak": {
         "avg_time_sec": 30,
-        "data_points": 2
+        "data_points": 3
+      },
+      "weekend": {
+        "avg_time_sec": 26,
+        "data_points": 4
       }
     },
     "1012O00034C0_1012O00044C0": {
@@ -202,37 +756,691 @@
     },
     "3086O00019C0_3086O00020C0": {
       "weekend": {
-        "avg_time_sec": 31,
-        "data_points": 1
+        "avg_time_sec": 37,
+        "data_points": 3
       }
     },
     "3083O00012C0_3083O00013C0": {
       "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 2
+      },
+      "weekend": {
         "avg_time_sec": 31,
-        "data_points": 1
+        "data_points": 5
       }
     },
     "1012O00032C0_1012O00033C0": {
       "weekday_offpeak": {
-        "avg_time_sec": 30,
-        "data_points": 1
+        "avg_time_sec": 23,
+        "data_points": 2
+      },
+      "weekend": {
+        "avg_time_sec": 18,
+        "data_points": 4
       }
     },
     "3071O00016C1_3071O00017C1": {
       "weekday_offpeak": {
         "avg_time_sec": 30,
-        "data_points": 1
+        "data_points": 2
+      },
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 5
       }
     },
     "1003VZ0060P1_1003O00015C0": {
       "weekday_offpeak": {
         "avg_time_sec": 30,
-        "data_points": 1
+        "data_points": 2
+      },
+      "weekend": {
+        "avg_time_sec": 14,
+        "data_points": 2
       }
     },
     "3090O00015C0_3090O00016C0": {
       "weekday_offpeak": {
         "avg_time_sec": 30,
+        "data_points": 1
+      },
+      "weekend": {
+        "avg_time_sec": 41,
+        "data_points": 3
+      }
+    },
+    "1005O00364C0_1005O00208C0": {
+      "weekend": {
+        "avg_time_sec": 25,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "1005O00152S0_1005O00250C0": {
+      "weekend": {
+        "avg_time_sec": 65,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 60,
+        "data_points": 1
+      }
+    },
+    "1005O00250C0_1002O00010C0": {
+      "weekend": {
+        "avg_time_sec": 169,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 158,
+        "data_points": 1
+      }
+    },
+    "1003O00023C0_1003VZ0060P1": {
+      "weekend": {
+        "avg_time_sec": 69,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 52,
+        "data_points": 1
+      }
+    },
+    "1003O00015C0_1003O00033C0": {
+      "weekend": {
+        "avg_time_sec": 64,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 40,
+        "data_points": 1
+      }
+    },
+    "spfb_7uqu": {
+      "weekend": {
+        "avg_time_sec": 84,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 79,
+        "data_points": 1
+      }
+    },
+    "7uqu_1010O00082C0": {
+      "weekend": {
+        "avg_time_sec": 121,
+        "data_points": 5
+      }
+    },
+    "1010O00082C0_1010O00073C0": {
+      "weekend": {
+        "avg_time_sec": 74,
+        "data_points": 5
+      }
+    },
+    "1010O00073C0_1010O00084C0": {
+      "weekend": {
+        "avg_time_sec": 23,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 41,
+        "data_points": 1
+      }
+    },
+    "1010O00109C0_1010O00086C0": {
+      "weekend": {
+        "avg_time_sec": 39,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 60,
+        "data_points": 1
+      }
+    },
+    "1010O00054C0_1010O00055C0": {
+      "weekend": {
+        "avg_time_sec": 26,
+        "data_points": 3
+      }
+    },
+    "1010O00059C9_1010O00061C0": {
+      "weekend": {
+        "avg_time_sec": 36,
+        "data_points": 3
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 87,
+        "data_points": 1
+      }
+    },
+    "1010O00062C9_1010O00064C9": {
+      "weekend": {
+        "avg_time_sec": 26,
+        "data_points": 3
+      }
+    },
+    "1010O00064C9_1010O00092C0": {
+      "weekend": {
+        "avg_time_sec": 13,
+        "data_points": 1
+      }
+    },
+    "1012O00031C0_1012O00032C0": {
+      "weekend": {
+        "avg_time_sec": 23,
+        "data_points": 2
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 13,
+        "data_points": 1
+      }
+    },
+    "1012O00033C0_1012O00034C0": {
+      "weekend": {
+        "avg_time_sec": 34,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 18,
+        "data_points": 1
+      }
+    },
+    "1012O00034C0_1012O00043C0": {
+      "weekend": {
+        "avg_time_sec": 38,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 43,
+        "data_points": 1
+      }
+    },
+    "1012O00043C0_1012O00044C0": {
+      "weekend": {
+        "avg_time_sec": 22,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 17,
+        "data_points": 1
+      }
+    },
+    "1012O00009C1_3155O00004C1": {
+      "weekend": {
+        "avg_time_sec": 35,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 13,
+        "data_points": 1
+      }
+    },
+    "3155O00004C1_3155O00005C1": {
+      "weekend": {
+        "avg_time_sec": 26,
+        "data_points": 3
+      }
+    },
+    "3053O00009C1_3053O00010C1": {
+      "weekend": {
+        "avg_time_sec": 99,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 77,
+        "data_points": 1
+      }
+    },
+    "3053O00010C1_3053O00011C1": {
+      "weekend": {
+        "avg_time_sec": 26,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3053O00011C1_3065O00045C1": {
+      "weekend": {
+        "avg_time_sec": 60,
+        "data_points": 1
+      }
+    },
+    "3065O00045C1_3065O00044C1": {
+      "weekend": {
+        "avg_time_sec": 35,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 14,
+        "data_points": 1
+      }
+    },
+    "3065O00044C1_3065O00046C1": {
+      "weekend": {
+        "avg_time_sec": 21,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 16,
+        "data_points": 1
+      }
+    },
+    "3065O00046C1_3066O00058C1": {
+      "weekend": {
+        "avg_time_sec": 44,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 15,
+        "data_points": 1
+      }
+    },
+    "3066O00058C1_3066O00059C1": {
+      "weekend": {
+        "avg_time_sec": 18,
+        "data_points": 3
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 15,
+        "data_points": 1
+      }
+    },
+    "3066O00059C1_3066O00060C1": {
+      "weekend": {
+        "avg_time_sec": 33,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3066O00060C1_3071O00036C1": {
+      "weekend": {
+        "avg_time_sec": 46,
+        "data_points": 5
+      }
+    },
+    "3071O00017C1_3070O00005C1": {
+      "weekend": {
+        "avg_time_sec": 27,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3070O00006C1_3069O00011C1": {
+      "weekend": {
+        "avg_time_sec": 22,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 18,
+        "data_points": 1
+      }
+    },
+    "3069O00011C1_3069O00012C1": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 61,
+        "data_points": 1
+      }
+    },
+    "3069O00012C1_3069O00013C1": {
+      "weekend": {
+        "avg_time_sec": 19,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 11,
+        "data_points": 1
+      }
+    },
+    "3069O00013C1_3069O00014C1": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 19,
+        "data_points": 1
+      }
+    },
+    "3069O00014C1_3079O00011C1": {
+      "weekend": {
+        "avg_time_sec": 32,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3079O00011C1_3079O00012C1": {
+      "weekend": {
+        "avg_time_sec": 21,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 11,
+        "data_points": 1
+      }
+    },
+    "3079O00010C1_3082O00013C1": {
+      "weekend": {
+        "avg_time_sec": 20,
+        "data_points": 2
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 19,
+        "data_points": 1
+      }
+    },
+    "3082O00013C1_3082O00014C1": {
+      "weekend": {
+        "avg_time_sec": 27,
+        "data_points": 4
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3082O00014C1_3082O00006C0": {
+      "weekend": {
+        "avg_time_sec": 13,
+        "data_points": 3
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 11,
+        "data_points": 1
+      }
+    },
+    "3082O00006C0_3082O00007C0": {
+      "weekend": {
+        "avg_time_sec": 32,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 49,
+        "data_points": 1
+      }
+    },
+    "3082O00008C0_3082O00009C0": {
+      "weekend": {
+        "avg_time_sec": 53,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 56,
+        "data_points": 1
+      }
+    },
+    "3082O00009C0_3082O00010C0": {
+      "weekend": {
+        "avg_time_sec": 28,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 25,
+        "data_points": 1
+      }
+    },
+    "3082O00010C0_3083O00012C0": {
+      "weekend": {
+        "avg_time_sec": 46,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 35,
+        "data_points": 1
+      }
+    },
+    "3083O00013C0_3083O00026C0": {
+      "weekend": {
+        "avg_time_sec": 56,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 70,
+        "data_points": 1
+      }
+    },
+    "3085O00010C0_3085O00011C0": {
+      "weekend": {
+        "avg_time_sec": 20,
+        "data_points": 3
+      }
+    },
+    "3086O00018C0_3086O00019C0": {
+      "weekend": {
+        "avg_time_sec": 19,
+        "data_points": 2
+      }
+    },
+    "3086O00020C0_3087O00005C0": {
+      "weekend": {
+        "avg_time_sec": 13,
+        "data_points": 5
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 25,
+        "data_points": 1
+      }
+    },
+    "3090O00016C0_3090O00017C0": {
+      "weekend": {
+        "avg_time_sec": 10,
+        "data_points": 4
+      }
+    },
+    "3090O00016C0_3090O00110C0": {
+      "weekend": {
+        "avg_time_sec": 68,
+        "data_points": 1
+      }
+    },
+    "3090O00110C0_3090O00072C0": {
+      "weekend": {
+        "avg_time_sec": 90,
+        "data_points": 5
+      }
+    },
+    "1010O00055C0_1010O00059C9": {
+      "weekend": {
+        "avg_time_sec": 13,
+        "data_points": 2
+      }
+    },
+    "3053O00011C1_3053O00012C1": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 3
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 60,
+        "data_points": 1
+      }
+    },
+    "3053O00012C1_3065O00045C1": {
+      "weekend": {
+        "avg_time_sec": 42,
+        "data_points": 3
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3079O00012C1_3079O00010C1": {
+      "weekend": {
+        "avg_time_sec": 38,
+        "data_points": 3
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3090O00017C0_3090O00110C0": {
+      "weekend": {
+        "avg_time_sec": 78,
+        "data_points": 2
+      }
+    },
+    "1002O00010C0_1003O00023C0": {
+      "weekend": {
+        "avg_time_sec": 32,
+        "data_points": 3
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "1003O00023C0_1003O00015C0": {
+      "weekend": {
+        "avg_time_sec": 92,
+        "data_points": 1
+      }
+    },
+    "3052O00005C1_3052O00006C1": {
+      "weekend": {
+        "avg_time_sec": 25,
+        "data_points": 1
+      }
+    },
+    "3070O00005C1_3070O00006C1": {
+      "weekend": {
+        "avg_time_sec": 34,
+        "data_points": 3
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3079O00012C1_3082O00013C1": {
+      "weekend": {
+        "avg_time_sec": 62,
+        "data_points": 1
+      }
+    },
+    "3083O00026C0_3083O00028C0": {
+      "weekend": {
+        "avg_time_sec": 61,
+        "data_points": 1
+      }
+    },
+    "3083O00028C0_3088O00008C0": {
+      "weekend": {
+        "avg_time_sec": 55,
+        "data_points": 1
+      }
+    },
+    "3085O00011C0_3085O00012C0": {
+      "weekend": {
+        "avg_time_sec": 21,
+        "data_points": 3
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3085O00013C0_3086O00018C0": {
+      "weekend": {
+        "avg_time_sec": 26,
+        "data_points": 2
+      }
+    },
+    "3090O00011C0_3090O00012C0": {
+      "weekend": {
+        "avg_time_sec": 31,
+        "data_points": 1
+      }
+    },
+    "1003O00033C0_spfb": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 2
+      }
+    },
+    "1012O00032C0_1012O00034C0": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3065O00046C1_3066O00059C1": {
+      "weekend": {
+        "avg_time_sec": 90,
+        "data_points": 1
+      }
+    },
+    "3085O00009C0_3085O00010C0": {
+      "weekend": {
+        "avg_time_sec": 9,
+        "data_points": 1
+      }
+    },
+    "1010O00061C0_1010O00062C9": {
+      "weekend": {
+        "avg_time_sec": 32,
+        "data_points": 1
+      }
+    },
+    "3052O00006C1_3053O00010C1": {
+      "weekend": {
+        "avg_time_sec": 60,
+        "data_points": 1
+      }
+    },
+    "3069O00012C1_3069O00014C1": {
+      "weekend": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "7uqu_1010O00073C0": {
+      "weekday_offpeak": {
+        "avg_time_sec": 161,
+        "data_points": 1
+      }
+    },
+    "1010O00086C0_1010O00055C0": {
+      "weekday_offpeak": {
+        "avg_time_sec": 72,
+        "data_points": 1
+      }
+    },
+    "3052O00006C1_3053O00009C1": {
+      "weekday_offpeak": {
+        "avg_time_sec": 13,
+        "data_points": 1
+      }
+    },
+    "3087O00006C0_3090O00011C0": {
+      "weekday_offpeak": {
+        "avg_time_sec": 22,
+        "data_points": 1
+      }
+    },
+    "3090O00013C0_3090O00015C0": {
+      "weekday_offpeak": {
+        "avg_time_sec": 21,
         "data_points": 1
       }
     }
