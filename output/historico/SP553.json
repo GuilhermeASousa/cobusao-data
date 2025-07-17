@@ -14,11 +14,39 @@
       "weekend": {
         "avg_time_sec": 15,
         "data_points": 2
+      },
+      "weekday_morning_peak": {
+        "avg_time_sec": 53,
+        "data_points": 1
       }
     },
     "2020O00011S0_2020O00012C0": {
       "weekend": {
+        "avg_time_sec": 42,
+        "data_points": 5
+      }
+    },
+    "4128O00184C0_4128O00030C0": {
+      "weekend": {
         "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "4128O00020C0_4128O00021C0": {
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "4128O00023C0_4128O00024C0": {
+      "weekday_offpeak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "2024O00073C0_2024O00120S0": {
+      "weekend": {
+        "avg_time_sec": 19,
         "data_points": 1
       }
     }
