@@ -20,6 +20,10 @@
       "weekday_morning_peak": {
         "avg_time_sec": 30,
         "data_points": 1
+      },
+      "weekday_day": {
+        "avg_time_sec": 14,
+        "data_points": 1
       }
     },
     "1008O00038C0_1005O00241C0": {
@@ -36,6 +40,12 @@
       "weekday_morning_peak": {
         "avg_time_sec": 31,
         "data_points": 1
+      }
+    },
+    "1005O00239C0_1005O00240C0": {
+      "weekday_day": {
+        "avg_time_sec": 38,
+        "data_points": 5
       }
     },
     "3112O00006C0_3112O00007C0": {
@@ -160,6 +170,12 @@
         "data_points": 1
       }
     },
+    "3112O00013C0_3112O00006C0": {
+      "weekday_day": {
+        "avg_time_sec": 23,
+        "data_points": 2
+      }
+    },
     "3112O00010C0_3112O00014C0": {
       "weekday_day": {
         "avg_time_sec": 19,
@@ -175,6 +191,22 @@
     "3086O00057C9_3086O00051C9": {
       "weekday_day": {
         "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "3086O00052C9_3086O00053C9": {
+      "weekday_day": {
+        "avg_time_sec": 31,
+        "data_points": 1
+      }
+    },
+    "3086O00053C9_3110O00015C9": {
+      "weekday_day": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      },
+      "weekday_offpeak": {
+        "avg_time_sec": 26,
         "data_points": 1
       }
     }
@@ -212,9 +244,15 @@
         "data_points": 1
       }
     },
-    "hgnz_i1wv": {
+    "hgnz_3086O00013C9": {
       "weekday_day": {
         "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "1005O00260C0_1005O00219C0": {
+      "weekday_day": {
+        "avg_time_sec": 123,
         "data_points": 1
       }
     },
@@ -234,6 +272,22 @@
         "data_points": 1
       }
     },
+    "3112O00005C0_3112O00013C0": {
+      "weekday_morning_peak": {
+        "avg_time_sec": 30,
+        "data_points": 1
+      }
+    },
+    "1005O00240C0_1005O00260C0": {
+      "weekday_evening_peak": {
+        "avg_time_sec": 31,
+        "data_points": 1
+      },
+      "weekday_day": {
+        "avg_time_sec": 39,
+        "data_points": 3
+      }
+    },
     "3110O00021C0_3110O00023C0": {
       "weekday_day": {
         "avg_time_sec": 31,
@@ -249,12 +303,6 @@
     "3086O00007C9_3086O00012C0": {
       "weekday_morning_peak": {
         "avg_time_sec": 15,
-        "data_points": 1
-      }
-    },
-    "3112O00004C0_3112O00011C0": {
-      "weekday_morning_peak": {
-        "avg_time_sec": 31,
         "data_points": 1
       }
     },
