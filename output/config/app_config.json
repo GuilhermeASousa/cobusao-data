@@ -1,0 +1,17 @@
+{
+    "features": {
+        "planner_enabled": false,
+        "planner_beta_label": true
+    },
+    "messages": {
+        "planner_maintenance_text": "O planejador está passando por melhorias no servidor. Voltamos em breve!"
+    },
+    "announcement": {
+        "id": "news_rio_001",
+        "enabled": true,
+        "target_city": "rio",
+        "title": "Novidade!",
+        "text": "Novas linhas rodando na cidade: 157, LECD128 e LECD129. Confira!",
+        "color": "0xFF1C83E4"
+    }
+}
