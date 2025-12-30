@@ -13,5 +13,28 @@
         "title": "Novidade!",
         "text": "Novas linhas rodando na cidade: 157, LECD128 e LECD129. Confira!",
         "color": "0xFF1C83E4"
-    }
+    },
+    "announcements": [
+        {
+            "id": "novas_linhas_rio",
+            "enabled": true,
+            "target_city": "rio",
+            "title": "Novas linhas na cidade!",
+            "text": "As linhas 157, LECD128 e LECD129 começaram a rodar. Toque para informações sobre trajeto e mais.",
+            "color": "0xFF1C83E4",
+            "start_at": "2025-12-30T10:00:00-03:00",
+            "action_url": "app://lines?codes=157,LECD128,LECD129&title=Novas%20Linhas"
+        },
+        {
+            "id": "reveillon_copa_2025",
+            "enabled": true,
+            "target_city": "rio",
+            "title": "Esquema Especial de Réveillon",
+            "text": "Confira as 24 linhas especiais que te levam para a festa.",
+            "color": "0xFFD32F2F",
+            "start_at": "2025-12-31T12:00:00-03:00",
+            "end_at": "2026-01-01T06:00:00-03:00",
+            "action_url": "app://lines?codes=SE100,SE169,SE238,SE265,SE298,SE312,SE324,SE328,SE355,SE363,SE368,SE383,SE388,SE393,SE397,SE399,SE410,SE457,SE474,SE483,SE550,SE553,SE554,SEB232&title=Linhas%20para%20Réveillon"
+        }
+    ]
 }
