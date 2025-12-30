@@ -6,14 +6,35 @@
     "messages": {
         "planner_maintenance_text": "O planejador está passando por melhorias no servidor. Voltamos em breve!"
     },
+    "//_COMENTARIO_BACKEND": "Configurações usadas exclusivamente pelo servidor Node.js (Hot Reload)",
+    "backend_config": {
+        "rio_gtfs_version": 1,
+        "sp_gtfs_version": 1,
+        "bh_gtfs_version": 1,
+        "rio_snap_tolerance_meters": 80,
+        "rio_angle_tolerance_degrees": 90
+    },
+    "//_COMENTARIO_MOBILE": "Configurações usadas pelo App Flutter",
+    "infrastructure": {
+        "api_base_url": "https://cadeobusao-backend.onrender.com/api",
+        "request_timeout_ms": 15000
+    },
+    "data_versions": {
+        "rio_mobile_gtfs": 1,
+        "sp_mobile_gtfs": 1,
+        "bh_mobile_gtfs": 1
+    },
+    "//_COMENTARIO_LEGADO": "Para versões antigas do app que não suportam lista",
     "announcement": {
         "id": "news_rio_001",
         "enabled": true,
         "target_city": "rio",
         "title": "Novidade!",
         "text": "Novas linhas rodando na cidade: 157, LECD128 e LECD129. Confira!",
-        "color": "0xFF1C83E4"
+        "color": "0xFF1C83E4",
+        "action_url": "app://lines?codes=LECD127,LECD128,LECD129&title=Novas%20Linhas"
     },
+    "//_COMENTARIO_MODERNO": "Lista de avisos para a versão nova do app",
     "announcements": [
         {
             "id": "novas_linhas_rio",
