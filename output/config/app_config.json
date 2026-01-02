@@ -48,15 +48,15 @@
             "action_url": "app://lines?codes=LECD127,LECD128,LECD129&title=Novas%20Linhas"
         },
         {
-            "id": "reveillon_copa_2025",
+            "id": "aviso_tarifa_5reais_jan26",
             "enabled": true,
             "target_city": "rio",
-            "title": "Esquema Especial de Réveillon",
-            "text": "Confira as 24 linhas especiais que te levam para a festa.",
+            "title": "Reajuste de Tarifa",
+            "text": "Atenção: A partir deste domingo (04/01), o valor da passagem dos transportes municipais passará a ser R$5,00.",
             "color": "0xFFD32F2F",
-            "start_at": "2025-12-31T00:00:00-03:00",
-            "end_at": "2026-01-01T06:00:00-03:00",
-            "action_url": "app://lines?codes=SE100,SE169,SE238,SE265,SE298,SE312,SE324,SE328,SE355,SE363,SE368,SE383,SE388,SE393,SE397,SE399,SE410,SE457,SE474,SE483,SE550,SE553,SE554,SEB232&title=Linhas%20para%20Réveillon"
+            "start_at": "2026-01-02T00:00:00-03:00",
+            "end_at": "2026-01-04T23:59:00-03:00",
+            "action_url": null
         }
     ]
 }
