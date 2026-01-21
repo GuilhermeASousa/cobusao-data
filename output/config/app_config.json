@@ -37,15 +37,15 @@
     "//_COMENTARIO_MODERNO": "Lista de avisos para a versão nova do app",
     "announcements": [
         {
-            "id": "novas_linhas_rio",
+            "id": "novas_linhas_rio21jan",
             "enabled": true,
             "target_city": "rio",
             "title": "Novas linhas na cidade!",
-            "text": "As linhas 157, LECD128 e LECD129 começaram a rodar. Toque para informações sobre trajeto e mais.",
+            "text": "As linhas 109, 157, 160, 162, 319 e 456 começaram a rodar. Toque para informações sobre os trajetos e mais.",
             "color": "0xFF1C83E4",
-            "start_at": "2025-12-30T10:00:00-03:00",
-            "end_at": "2026-01-03T00:00:00-03:00",
-            "action_url": "app://lines?codes=LECD127,LECD128,LECD129&title=Novas%20Linhas"
+            "start_at": "2026-01-21T12:00:00-03:00",
+            "end_at": "2026-01-31T00:00:00-03:00",
+            "action_url": "app://lines?codes=LECD127,LECD128,LECD129,LECD130,LECD131,LECD132&title=Novas%20Linhas"
         },
         {
             "id": "aviso_tarifa_5reais_jan26",
