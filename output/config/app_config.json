@@ -8,7 +8,7 @@
     },
     "//_COMENTARIO_BACKEND": "Configurações usadas exclusivamente pelo servidor Node.js (Hot Reload)",
     "backend_config": {
-        "rio_gtfs_version": 3,
+        "rio_gtfs_version": 4,
         "sp_gtfs_version": 3,
         "bh_gtfs_version": 4,
         "rio_snap_tolerance_meters": 80,
@@ -20,7 +20,7 @@
         "request_timeout_ms": 15000
     },
     "data_versions": {
-        "rio_mobile_gtfs": 1,
+        "rio_mobile_gtfs": 2,
         "sp_mobile_gtfs": 1,
         "bh_mobile_gtfs": 1
     },
