@@ -8,7 +8,7 @@
     },
     "//_COMENTARIO_BACKEND": "Configurações usadas exclusivamente pelo servidor Node.js (Hot Reload)",
     "backend_config": {
-        "rio_gtfs_version": 4,
+        "rio_gtfs_version": 10,
         "sp_gtfs_version": 3,
         "bh_gtfs_version": 4,
         "rio_snap_tolerance_meters": 80,
@@ -20,7 +20,7 @@
         "request_timeout_ms": 15000
     },
     "data_versions": {
-        "rio_mobile_gtfs": 2,
+        "rio_mobile_gtfs": 10,
         "sp_mobile_gtfs": 1,
         "bh_mobile_gtfs": 1
     },
@@ -37,15 +37,15 @@
     "//_COMENTARIO_MODERNO": "Lista de avisos para a versão nova do app",
     "announcements": [
         {
-            "id": "novas_linhas_rio02FEV26",
+            "id": "novas_linhas_rio11FEV26",
             "enabled": true,
             "target_city": "rio",
             "title": "Novas linhas na cidade!",
-            "text": "As linhas 164 e SV319 começaram a rodar. Toque para informações sobre os trajetos e mais.",
+            "text": "As linhas 536 e SN410 começaram a rodar. Toque para informações sobre os trajetos e mais.",
             "color": "0xFF1C83E4",
             "start_at": "2026-02-02T00:00:00-03:00",
             "end_at": "2026-06-02T23:59:00-03:00",
-            "action_url": "app://lines?codes=LECD136,LECD137&title=Novas%20Linhas"
+            "action_url": "app://lines?codes=LECD138,LECD139&title=Novas%20Linhas"
         },
         {
             "id": "aviso_tarifa_5reais_jan26",
