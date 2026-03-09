@@ -5,6 +5,14 @@
       "trip_headsign": "Term. Pq. D. Pedro Ii",
       "trajeto": [
         {
+          "lat": -23.681504,
+          "lon": -46.636703
+        },
+        {
+          "lat": -23.681545,
+          "lon": -46.636723
+        },
+        {
           "lat": -23.681599,
           "lon": -46.636747
         },
@@ -2238,6 +2246,14 @@
         }
       ],
       "paradas": [
+        {
+          "stopId": "220013670",
+          "stopName": "R. Baltazar Gomes De Alarcão, 10",
+          "position": {
+            "lat": -23.681535,
+            "lon": -46.636728
+          }
+        },
         {
           "stopId": "220013679",
           "stopName": "Av. Garcia De Ávila, 682",
@@ -4863,6 +4879,10 @@
         {
           "lat": -23.681493,
           "lon": -46.636697
+        },
+        {
+          "lat": -23.681504,
+          "lon": -46.636703
         },
         {
           "lat": -23.681545,
