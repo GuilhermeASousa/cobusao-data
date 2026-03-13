@@ -237,13 +237,6 @@
     "textColor": "#000000",
     "price": "5.00"
   },
-  "222": {
-    "description": "Vila Isabel - Gamboa",
-    "consortiumName": "INTERSUL",
-    "consortiumColor": "#B1B1B1",
-    "textColor": "#000000",
-    "price": "5.00"
-  },
   "229": {
     "description": "Usina - Castelo",
     "consortiumName": "INTERSUL",
@@ -888,22 +881,8 @@
     "textColor": "#000000",
     "price": "5.00"
   },
-  "433": {
-    "description": "Vila Isabel - Siqueira Campos",
-    "consortiumName": "INTERSUL",
-    "consortiumColor": "#B1B1B1",
-    "textColor": "#000000",
-    "price": "5.00"
-  },
   "435": {
     "description": "Grajaú - Gávea",
-    "consortiumName": "INTERSUL",
-    "consortiumColor": "#B1B1B1",
-    "textColor": "#000000",
-    "price": "5.00"
-  },
-  "439": {
-    "description": "Vila Isabel - Leblon",
     "consortiumName": "INTERSUL",
     "consortiumColor": "#B1B1B1",
     "textColor": "#000000",
@@ -939,13 +918,6 @@
   },
   "461": {
     "description": "São Cristóvão - Ipanema",
-    "consortiumName": "INTERSUL",
-    "consortiumColor": "#B1B1B1",
-    "textColor": "#000000",
-    "price": "5.00"
-  },
-  "463": {
-    "description": "São Cristóvão - Copacabana",
     "consortiumName": "INTERSUL",
     "consortiumColor": "#B1B1B1",
     "textColor": "#000000",
@@ -1032,7 +1004,7 @@
     "description": "Terminal Jardim Oceânico - Terminal Centro Olímpico",
     "consortiumName": "MOBI-RIO",
     "consortiumColor": "#6AA84F",
-    "textColor": "#000000",
+    "textColor": "#FFFFFF",
     "price": "5.00"
   },
   "507": {
@@ -1046,7 +1018,7 @@
     "description": "Terminal Deodoro - Terminal Recreio",
     "consortiumName": "MOBI-RIO",
     "consortiumColor": "#6AA84F",
-    "textColor": "#000000",
+    "textColor": "#FFFFFF",
     "price": "5.00"
   },
   "513": {
@@ -1074,14 +1046,14 @@
     "description": "Terminal Deodoro - Terminal Alvorada",
     "consortiumName": "MOBI-RIO",
     "consortiumColor": "#6aa84f",
-    "textColor": "#000000",
+    "textColor": "#FFFFFF",
     "price": "5.00"
   },
   "53": {
     "description": "Terminal Sulacap - Terminal Alvorada",
     "consortiumName": "MOBI-RIO",
     "consortiumColor": "#6AA84F",
-    "textColor": "#000000",
+    "textColor": "#FFFFFF",
     "price": "5.00"
   },
   "539": {
@@ -1441,13 +1413,6 @@
     "textColor": "#000000",
     "price": "5.00"
   },
-  "685": {
-    "description": "Irajá - Méier",
-    "consortiumName": "INTERNORTE",
-    "consortiumColor": "#1B47B9",
-    "textColor": "#FFFFFF",
-    "price": "5.00"
-  },
   "687": {
     "description": "Pavuna - Méier",
     "consortiumName": "INTERNORTE",
@@ -1490,8 +1455,8 @@
     "textColor": "#FFFFFF",
     "price": "5.00"
   },
-  "71": {
-    "description": "Vigário Geral - Terminal Gentileza",
+  "70": {
+    "description": "Terminal Margaridas - Terminal Gentileza",
     "consortiumName": "MOBI-RIO",
     "consortiumColor": "#8a1812",
     "textColor": "#FFFFFF",
@@ -1515,6 +1480,13 @@
     "description": "Vila Cruzeiro - Cascadura",
     "consortiumName": "INTERNORTE",
     "consortiumColor": "#1B47B9",
+    "textColor": "#FFFFFF",
+    "price": "5.00"
+  },
+  "73": {
+    "description": "Terminal Margaridas - Terminal Gentileza",
+    "consortiumName": "MOBI-RIO",
+    "consortiumColor": "#8a1812",
     "textColor": "#FFFFFF",
     "price": "5.00"
   },
@@ -2386,32 +2358,11 @@
     "textColor": "#FFFFFF",
     "price": "5.00"
   },
-  "950": {
-    "description": "Vicente de Carvalho - Vista Alegre",
-    "consortiumName": "INTERNORTE",
-    "consortiumColor": "#1B47B9",
-    "textColor": "#FFFFFF",
-    "price": "5.00"
-  },
-  "951": {
-    "description": "Vicente de Carvalho - Vista Alegre",
-    "consortiumName": "INTERNORTE",
-    "consortiumColor": "#1B47B9",
-    "textColor": "#FFFFFF",
-    "price": "5.00"
-  },
   "954": {
     "description": "Terminal Taquara - Recreio dos Bandeirantes",
     "consortiumName": "TRANSCARIOCA",
     "consortiumColor": "#6EC3E6",
     "textColor": "#000000",
-    "price": "5.00"
-  },
-  "959": {
-    "description": "Metrô Vicente de Carvalho - Irajá",
-    "consortiumName": "INTERNORTE",
-    "consortiumColor": "#1DA527",
-    "textColor": "#FFFFFF",
     "price": "5.00"
   },
   "961": {
@@ -2566,6 +2517,55 @@
     "consortiumName": "INTERSUL",
     "consortiumColor": "#B1B1B1",
     "textColor": "#000000",
+    "price": "5.00"
+  },
+  "LECD140": {
+    "description": "Terminal Margaridas - Méier",
+    "consortiumName": "INTERNORTE",
+    "consortiumColor": "#1B47B9",
+    "textColor": "#FFFFFF",
+    "price": "5.00"
+  },
+  "LECD141": {
+    "description": "Terminal Margaridas - Méier",
+    "consortiumName": "INTERNORTE",
+    "consortiumColor": "#1B47B9",
+    "textColor": "#FFFFFF",
+    "price": "5.00"
+  },
+  "LECD142": {
+    "description": "Madureira - Jardim América",
+    "consortiumName": "TRANSCARIOCA",
+    "consortiumColor": "#1DA527",
+    "textColor": "#FFFFFF",
+    "price": "5.00"
+  },
+  "LECD143": {
+    "description": "Metrô Pavuna - Terminal Margaridas",
+    "consortiumName": "INTERNORTE",
+    "consortiumColor": "#1B47B9",
+    "textColor": "#FFFFFF",
+    "price": "5.00"
+  },
+  "LECD144": {
+    "description": "Metrô Vicente de Carvalho - Terminal Margaridas",
+    "consortiumName": "INTERNORTE",
+    "consortiumColor": "#1B47B9",
+    "textColor": "#FFFFFF",
+    "price": "5.00"
+  },
+  "LECD145": {
+    "description": "Metrô Vicente de Carvalho - Terminal Margaridas",
+    "consortiumName": "INTERNORTE",
+    "consortiumColor": "#1B47B9",
+    "textColor": "#FFFFFF",
+    "price": "5.00"
+  },
+  "LECD146": {
+    "description": "Metrô Vicente de Carvalho - Terminal Margaridas",
+    "consortiumName": "INTERNORTE",
+    "consortiumColor": "#1DA527",
+    "textColor": "#FFFFFF",
     "price": "5.00"
   },
   "SE867": {
@@ -2736,13 +2736,6 @@
     "textColor": "#000000",
     "price": "5.00"
   },
-  "SN433": {
-    "description": "Vila Isabel - Siqueira Campos",
-    "consortiumName": "INTERSUL",
-    "consortiumColor": "#B1B1B1",
-    "textColor": "#000000",
-    "price": "5.00"
-  },
   "SN457": {
     "description": "Abolição - Copacabana",
     "consortiumName": "INTERNORTE",
@@ -2829,13 +2822,6 @@
   },
   "SN639": {
     "description": "Jardim América - Saens Peña",
-    "consortiumName": "INTERNORTE",
-    "consortiumColor": "#1B47B9",
-    "textColor": "#FFFFFF",
-    "price": "5.00"
-  },
-  "SN685": {
-    "description": "Irajá - Méier",
     "consortiumName": "INTERNORTE",
     "consortiumColor": "#1B47B9",
     "textColor": "#FFFFFF",
@@ -3345,13 +3331,6 @@
     "textColor": "#FFFFFF",
     "price": "5.00"
   },
-  "SV774": {
-    "description": "Madureira - Jardim América",
-    "consortiumName": "TRANSCARIOCA",
-    "consortiumColor": "#1DA527",
-    "textColor": "#FFFFFF",
-    "price": "5.00"
-  },
   "SV777": {
     "description": "Padre Miguel - Madureira",
     "consortiumName": "SANTA CRUZ",
@@ -3452,13 +3431,6 @@
   },
   "SVB665": {
     "description": "Pavuna - Saens Peña",
-    "consortiumName": "INTERNORTE",
-    "consortiumColor": "#1B47B9",
-    "textColor": "#FFFFFF",
-    "price": "5.00"
-  },
-  "SVB685": {
-    "description": "Irajá - Méier",
     "consortiumName": "INTERNORTE",
     "consortiumColor": "#1B47B9",
     "textColor": "#FFFFFF",
