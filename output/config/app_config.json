@@ -8,9 +8,9 @@
     },
     "//_COMENTARIO_BACKEND": "Configurações usadas exclusivamente pelo servidor Node.js (Hot Reload)",
     "backend_config": {
-        "rio_gtfs_version": 13,
-        "sp_gtfs_version": 13,
-        "bh_gtfs_version": 13,
+        "rio_gtfs_version": 15,
+        "sp_gtfs_version": 15,
+        "bh_gtfs_version": 15,
         "rio_snap_tolerance_meters": 80,
         "rio_angle_tolerance_degrees": 90
     },
@@ -20,9 +20,9 @@
         "request_timeout_ms": 15000
     },
     "data_versions": {
-        "rio_mobile_gtfs": 14,
-        "sp_mobile_gtfs": 13,
-        "bh_mobile_gtfs": 13
+        "rio_mobile_gtfs": 15,
+        "sp_mobile_gtfs": 15,
+        "bh_mobile_gtfs": 15
     },
     "//_COMENTARIO_LEGADO": "Para versões antigas do app que não suportam lista",
     "announcement": {
