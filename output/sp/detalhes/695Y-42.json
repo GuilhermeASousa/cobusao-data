@@ -2,7 +2,7 @@
   "trajetos": [
     {
       "direction_id": 0,
-      "trip_headsign": "Est. Varginha",
+      "trip_headsign": "Term. Est. Varginha",
       "trajeto": [
         {
           "lat": -23.828313,
@@ -345,120 +345,104 @@
           "lon": -46.735294
         },
         {
-          "lat": -23.814133,
-          "lon": -46.73529
+          "lat": -23.813488,
+          "lon": -46.735571
         },
         {
-          "lat": -23.812658,
-          "lon": -46.735768
+          "lat": -23.813023,
+          "lon": -46.735713
         },
         {
-          "lat": -23.812219,
-          "lon": -46.735887
+          "lat": -23.812097,
+          "lon": -46.735982
         },
         {
-          "lat": -23.811972,
-          "lon": -46.735939
+          "lat": -23.811762,
+          "lon": -46.736126
         },
         {
-          "lat": -23.81168,
-          "lon": -46.736094
+          "lat": -23.811403,
+          "lon": -46.736419
         },
         {
-          "lat": -23.811095,
-          "lon": -46.736585
+          "lat": -23.811114,
+          "lon": -46.736677
         },
         {
-          "lat": -23.810833,
-          "lon": -46.736778
+          "lat": -23.810872,
+          "lon": -46.736876
         },
         {
-          "lat": -23.810549,
-          "lon": -46.73694
+          "lat": -23.810636,
+          "lon": -46.737025
         },
         {
-          "lat": -23.810425,
-          "lon": -46.736992
+          "lat": -23.810462,
+          "lon": -46.737088
         },
         {
-          "lat": -23.809862,
-          "lon": -46.737142
+          "lat": -23.809803,
+          "lon": -46.737254
         },
         {
-          "lat": -23.809569,
-          "lon": -46.737195
+          "lat": -23.809565,
+          "lon": -46.737296
         },
         {
-          "lat": -23.809442,
-          "lon": -46.73719
+          "lat": -23.809484,
+          "lon": -46.737297
         },
         {
-          "lat": -23.809227,
-          "lon": -46.737139
+          "lat": -23.809428,
+          "lon": -46.73729
         },
         {
-          "lat": -23.80896,
-          "lon": -46.736993
+          "lat": -23.809344,
+          "lon": -46.737273
         },
         {
-          "lat": -23.808754,
-          "lon": -46.736874
+          "lat": -23.809148,
+          "lon": -46.737179
         },
         {
-          "lat": -23.808571,
-          "lon": -46.736822
+          "lat": -23.808592,
+          "lon": -46.736932
         },
         {
-          "lat": -23.808447,
-          "lon": -46.736789
+          "lat": -23.80819,
+          "lon": -46.736887
         },
         {
-          "lat": -23.808206,
-          "lon": -46.736779
+          "lat": -23.808057,
+          "lon": -46.736872
         },
         {
-          "lat": -23.808064,
-          "lon": -46.736774
+          "lat": -23.807707,
+          "lon": -46.736835
         },
         {
-          "lat": -23.807853,
-          "lon": -46.736765
+          "lat": -23.807544,
+          "lon": -46.736788
         },
         {
-          "lat": -23.807732,
-          "lon": -46.73676
+          "lat": -23.807437,
+          "lon": -46.736754
         },
         {
-          "lat": -23.807517,
-          "lon": -46.736706
+          "lat": -23.807124,
+          "lon": -46.736654
         },
         {
-          "lat": -23.807451,
-          "lon": -46.736683
+          "lat": -23.806855,
+          "lon": -46.736563
         },
         {
-          "lat": -23.807238,
-          "lon": -46.736611
+          "lat": -23.806428,
+          "lon": -46.736409
         },
         {
-          "lat": -23.807204,
-          "lon": -46.736596
-        },
-        {
-          "lat": -23.807031,
-          "lon": -46.736541
-        },
-        {
-          "lat": -23.806716,
-          "lon": -46.736433
-        },
-        {
-          "lat": -23.806356,
-          "lon": -46.736306
-        },
-        {
-          "lat": -23.806176,
-          "lon": -46.736249
+          "lat": -23.806162,
+          "lon": -46.736299
         },
         {
           "lat": -23.806045,
@@ -1477,28 +1461,420 @@
           "lon": -46.71174
         },
         {
+          "lat": -23.769516,
+          "lon": -46.711544
+        },
+        {
+          "lat": -23.769571,
+          "lon": -46.711272
+        },
+        {
+          "lat": -23.769646,
+          "lon": -46.711251
+        },
+        {
+          "lat": -23.769815,
+          "lon": -46.711253
+        },
+        {
+          "lat": -23.770033,
+          "lon": -46.711246
+        },
+        {
+          "lat": -23.770189,
+          "lon": -46.711187
+        },
+        {
+          "lat": -23.770124,
+          "lon": -46.711062
+        },
+        {
+          "lat": -23.770228,
+          "lon": -46.710996
+        },
+        {
+          "lat": -23.770294,
+          "lon": -46.710954
+        },
+        {
+          "lat": -23.770361,
+          "lon": -46.710912
+        },
+        {
+          "lat": -23.77041,
+          "lon": -46.710881
+        },
+        {
+          "lat": -23.770475,
+          "lon": -46.710841
+        },
+        {
+          "lat": -23.770541,
+          "lon": -46.7108
+        },
+        {
+          "lat": -23.770618,
+          "lon": -46.710752
+        },
+        {
+          "lat": -23.770694,
+          "lon": -46.710705
+        },
+        {
+          "lat": -23.770876,
+          "lon": -46.710592
+        },
+        {
+          "lat": -23.770917,
+          "lon": -46.710566
+        },
+        {
+          "lat": -23.770979,
+          "lon": -46.710683
+        },
+        {
+          "lat": -23.770829,
+          "lon": -46.710778
+        },
+        {
+          "lat": -23.770723,
+          "lon": -46.710845
+        },
+        {
+          "lat": -23.770537,
+          "lon": -46.710964
+        },
+        {
+          "lat": -23.770478,
+          "lon": -46.711002
+        },
+        {
+          "lat": -23.7704,
+          "lon": -46.711053
+        },
+        {
+          "lat": -23.770328,
+          "lon": -46.711098
+        },
+        {
+          "lat": -23.770242,
+          "lon": -46.711153
+        },
+        {
+          "lat": -23.770189,
+          "lon": -46.711187
+        }
+      ],
+      "paradas": [
+        {
+          "stopId": "560009037",
+          "stopName": "Terminal Parelheiros",
+          "position": {
+            "lat": -23.828277,
+            "lon": -46.727227
+          }
+        },
+        {
+          "stopId": "5614753",
+          "stopName": "R. Nacip Haydan, 3",
+          "position": {
+            "lat": -23.827602,
+            "lon": -46.727296
+          }
+        },
+        {
+          "stopId": "560009031",
+          "stopName": "R. S. Sebastião Da Barra",
+          "position": {
+            "lat": -23.826782,
+            "lon": -46.728175
+          }
+        },
+        {
+          "stopId": "560009032",
+          "stopName": "R. Euzébio Coghi, 1042",
+          "position": {
+            "lat": -23.826537,
+            "lon": -46.73029
+          }
+        },
+        {
+          "stopId": "5614545",
+          "stopName": "Euzébio Coghi B/C",
+          "position": {
+            "lat": -23.826443,
+            "lon": -46.732218
+          }
+        },
+        {
+          "stopId": "5614561",
+          "stopName": "Ravello B/C",
+          "position": {
+            "lat": -23.824717,
+            "lon": -46.734245
+          }
+        },
+        {
+          "stopId": "5614543",
+          "stopName": "Juza B/C",
+          "position": {
+            "lat": -23.822356,
+            "lon": -46.735702
+          }
+        },
+        {
+          "stopId": "560009203",
+          "stopName": "Servidão B/C",
+          "position": {
+            "lat": -23.817602,
+            "lon": -46.734311
+          }
+        },
+        {
+          "stopId": "560009201",
+          "stopName": "Amaro Alves Do Rosario B/C",
+          "position": {
+            "lat": -23.814648,
+            "lon": -46.735225
+          }
+        },
+        {
+          "stopId": "560009175",
+          "stopName": "Ana Carolina B/C",
+          "position": {
+            "lat": -23.803805,
+            "lon": -46.73479
+          }
+        },
+        {
+          "stopId": "560009173",
+          "stopName": "Estrada Do Paiol B/C",
+          "position": {
+            "lat": -23.80117,
+            "lon": -46.733875
+          }
+        },
+        {
+          "stopId": "560009171",
+          "stopName": "Baltazarini B/C",
+          "position": {
+            "lat": -23.798989,
+            "lon": -46.731158
+          }
+        },
+        {
+          "stopId": "560009170",
+          "stopName": "Estrada Do Pinhal B/C",
+          "position": {
+            "lat": -23.793253,
+            "lon": -46.729063
+          }
+        },
+        {
+          "stopId": "560009166",
+          "stopName": "Alfredo Reimberg B/C",
+          "position": {
+            "lat": -23.790935,
+            "lon": -46.726858
+          }
+        },
+        {
+          "stopId": "5614791",
+          "stopName": "Cartório De Parelheiros",
+          "position": {
+            "lat": -23.789178,
+            "lon": -46.726429
+          }
+        },
+        {
+          "stopId": "560009165",
+          "stopName": "Niels C. Sorensen B/C",
+          "position": {
+            "lat": -23.786102,
+            "lon": -46.726012
+          }
+        },
+        {
+          "stopId": "560009162",
+          "stopName": "Elevatória Sabesp B/C",
+          "position": {
+            "lat": -23.78024,
+            "lon": -46.724711
+          }
+        },
+        {
+          "stopId": "560009159",
+          "stopName": "José Nicolau De Lima B/C",
+          "position": {
+            "lat": -23.777013,
+            "lon": -46.722914
+          }
+        },
+        {
+          "stopId": "560009232",
+          "stopName": "Satélite Ariel B/C",
+          "position": {
+            "lat": -23.773112,
+            "lon": -46.720299
+          }
+        },
+        {
+          "stopId": "560009233",
+          "stopName": "Teixeira Da Silva",
+          "position": {
+            "lat": -23.771652,
+            "lon": -46.718863
+          }
+        },
+        {
+          "stopId": "560009235",
+          "stopName": "R. Arcelina Teixeira Da Silva, 227",
+          "position": {
+            "lat": -23.770569,
+            "lon": -46.717209
+          }
+        },
+        {
+          "stopId": "560009266",
+          "stopName": "Av. Paulo Guilguer Reimberg, 31",
+          "position": {
+            "lat": -23.769484,
+            "lon": -46.714956
+          }
+        },
+        {
+          "stopId": "560009268",
+          "stopName": "Av. Paulo Guilguer Reimberg, 480",
+          "position": {
+            "lat": -23.771091,
+            "lon": -46.71288
+          }
+        },
+        {
+          "stopId": "3015075",
+          "stopName": "Pmd 6072-23",
+          "position": {
+            "lat": -23.770386,
+            "lon": -46.710908
+          }
+        },
+        {
+          "stopId": "3015076",
+          "stopName": "Pmd 6072-21",
+          "position": {
+            "lat": -23.770534,
+            "lon": -46.710823
+          }
+        },
+        {
+          "stopId": "3015077",
+          "stopName": "Pmd 6072-10",
+          "position": {
+            "lat": -23.770678,
+            "lon": -46.710746
+          }
+        },
+        {
+          "stopId": "3015078",
+          "stopName": "Pmd 6073-10",
+          "position": {
+            "lat": -23.770893,
+            "lon": -46.710593
+          }
+        },
+        {
+          "stopId": "3015083",
+          "stopName": "Pmd Cocaia",
+          "position": {
+            "lat": -23.770833,
+            "lon": -46.710762
+          }
+        },
+        {
+          "stopId": "3015082",
+          "stopName": "Pmd 6l10-41",
+          "position": {
+            "lat": -23.770731,
+            "lon": -46.710829
+          }
+        },
+        {
+          "stopId": "3015081",
+          "stopName": "Pmd 6l10-10",
+          "position": {
+            "lat": -23.770518,
+            "lon": -46.710965
+          }
+        },
+        {
+          "stopId": "3015080",
+          "stopName": "Pmd 6l07-10",
+          "position": {
+            "lat": -23.770335,
+            "lon": -46.711083
+          }
+        },
+        {
+          "stopId": "3015079",
+          "stopName": "Pmd 695y-42",
+          "position": {
+            "lat": -23.770198,
+            "lon": -46.711173
+          }
+        }
+      ]
+    },
+    {
+      "direction_id": 1,
+      "trip_headsign": "Term. Parelheiros",
+      "trajeto": [
+        {
+          "lat": -23.770242,
+          "lon": -46.711153
+        },
+        {
+          "lat": -23.770189,
+          "lon": -46.711187
+        },
+        {
+          "lat": -23.770124,
+          "lon": -46.711062
+        },
+        {
+          "lat": -23.770063,
+          "lon": -46.710944
+        },
+        {
+          "lat": -23.770012,
+          "lon": -46.710845
+        },
+        {
+          "lat": -23.769944,
+          "lon": -46.710714
+        },
+        {
+          "lat": -23.769861,
+          "lon": -46.710862
+        },
+        {
+          "lat": -23.769756,
+          "lon": -46.71091
+        },
+        {
+          "lat": -23.769579,
+          "lon": -46.710952
+        },
+        {
+          "lat": -23.769547,
+          "lon": -46.711061
+        },
+        {
+          "lat": -23.769481,
+          "lon": -46.711311
+        },
+        {
           "lat": -23.769432,
           "lon": -46.711743
-        },
-        {
-          "lat": -23.768573,
-          "lon": -46.71177
-        },
-        {
-          "lat": -23.768545,
-          "lon": -46.711802
-        },
-        {
-          "lat": -23.768542,
-          "lon": -46.711856
-        },
-        {
-          "lat": -23.768552,
-          "lon": -46.711918
-        },
-        {
-          "lat": -23.768578,
-          "lon": -46.711936
         },
         {
           "lat": -23.76943,
@@ -2835,211 +3211,11 @@
       ],
       "paradas": [
         {
-          "stopId": "560009037",
-          "stopName": "Terminal Parelheiros",
+          "stopId": "3015079",
+          "stopName": "Pmd 695y-42",
           "position": {
-            "lat": -23.828277,
-            "lon": -46.727227
-          }
-        },
-        {
-          "stopId": "560009031",
-          "stopName": "R. S. Sebastião Da Barra",
-          "position": {
-            "lat": -23.826782,
-            "lon": -46.728175
-          }
-        },
-        {
-          "stopId": "560009032",
-          "stopName": "R. Euzébio Coghi, 1042",
-          "position": {
-            "lat": -23.826537,
-            "lon": -46.73029
-          }
-        },
-        {
-          "stopId": "5614545",
-          "stopName": "Euzébio Coghi B/C",
-          "position": {
-            "lat": -23.826443,
-            "lon": -46.732218
-          }
-        },
-        {
-          "stopId": "5614561",
-          "stopName": "Ravello B/C",
-          "position": {
-            "lat": -23.824717,
-            "lon": -46.734245
-          }
-        },
-        {
-          "stopId": "5614543",
-          "stopName": "Juza B/C",
-          "position": {
-            "lat": -23.822356,
-            "lon": -46.735702
-          }
-        },
-        {
-          "stopId": "560009203",
-          "stopName": "Servidão B/C",
-          "position": {
-            "lat": -23.817602,
-            "lon": -46.734311
-          }
-        },
-        {
-          "stopId": "560009201",
-          "stopName": "Amaro Alves Do Rosario B/C",
-          "position": {
-            "lat": -23.814648,
-            "lon": -46.735225
-          }
-        },
-        {
-          "stopId": "560009198",
-          "stopName": "Estr. Ecoturística De Parelheiros, 4921",
-          "position": {
-            "lat": -23.812479,
-            "lon": -46.735796
-          }
-        },
-        {
-          "stopId": "560009197",
-          "stopName": "Luíz Bueno B/C",
-          "position": {
-            "lat": -23.811252,
-            "lon": -46.736391
-          }
-        },
-        {
-          "stopId": "560009194",
-          "stopName": "Romão Boeta B/C",
-          "position": {
-            "lat": -23.808968,
-            "lon": -46.736957
-          }
-        },
-        {
-          "stopId": "560009192",
-          "stopName": "José La Torre B/C",
-          "position": {
-            "lat": -23.806909,
-            "lon": -46.736403
-          }
-        },
-        {
-          "stopId": "560009175",
-          "stopName": "Ana Carolina B/C",
-          "position": {
-            "lat": -23.803805,
-            "lon": -46.73479
-          }
-        },
-        {
-          "stopId": "560009173",
-          "stopName": "Estrada Do Paiol B/C",
-          "position": {
-            "lat": -23.80117,
-            "lon": -46.733875
-          }
-        },
-        {
-          "stopId": "560009171",
-          "stopName": "Baltazarini B/C",
-          "position": {
-            "lat": -23.798989,
-            "lon": -46.731158
-          }
-        },
-        {
-          "stopId": "560009170",
-          "stopName": "Estrada Do Pinhal B/C",
-          "position": {
-            "lat": -23.793253,
-            "lon": -46.729063
-          }
-        },
-        {
-          "stopId": "560009166",
-          "stopName": "Alfredo Reimberg B/C",
-          "position": {
-            "lat": -23.790935,
-            "lon": -46.726858
-          }
-        },
-        {
-          "stopId": "5614791",
-          "stopName": "Cartório De Parelheiros",
-          "position": {
-            "lat": -23.789178,
-            "lon": -46.726429
-          }
-        },
-        {
-          "stopId": "560009165",
-          "stopName": "Niels C. Sorensen B/C",
-          "position": {
-            "lat": -23.786102,
-            "lon": -46.726012
-          }
-        },
-        {
-          "stopId": "560009162",
-          "stopName": "Elevatória Sabesp B/C",
-          "position": {
-            "lat": -23.78024,
-            "lon": -46.724711
-          }
-        },
-        {
-          "stopId": "560009159",
-          "stopName": "José Nicolau De Lima B/C",
-          "position": {
-            "lat": -23.777013,
-            "lon": -46.722914
-          }
-        },
-        {
-          "stopId": "560009232",
-          "stopName": "Satélite Ariel B/C",
-          "position": {
-            "lat": -23.773112,
-            "lon": -46.720299
-          }
-        },
-        {
-          "stopId": "560009233",
-          "stopName": "Teixeira Da Silva",
-          "position": {
-            "lat": -23.771652,
-            "lon": -46.718863
-          }
-        },
-        {
-          "stopId": "560009235",
-          "stopName": "R. Arcelina Teixeira Da Silva, 227",
-          "position": {
-            "lat": -23.770569,
-            "lon": -46.717209
-          }
-        },
-        {
-          "stopId": "560009266",
-          "stopName": "Av. Paulo Guilguer Reimberg, 31",
-          "position": {
-            "lat": -23.769484,
-            "lon": -46.714956
-          }
-        },
-        {
-          "stopId": "560009268",
-          "stopName": "Av. Paulo Guilguer Reimberg, 480",
-          "position": {
-            "lat": -23.771091,
-            "lon": -46.71288
+            "lat": -23.770198,
+            "lon": -46.711173
           }
         },
         {

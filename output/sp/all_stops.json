@@ -1705,7 +1705,7 @@
   },
   {
     "stopId": "301692",
-    "stopName": "R. Tancredo Neves, 46",
+    "stopName": "R. Kenda, 46",
     "position": {
       "lat": -23.437343,
       "lon": -46.80343
@@ -1721,7 +1721,7 @@
   },
   {
     "stopId": "301697",
-    "stopName": "R. Dalva De Oliveira, 70",
+    "stopName": "R. Anamosa, 70",
     "position": {
       "lat": -23.438349,
       "lon": -46.802298
@@ -1737,7 +1737,7 @@
   },
   {
     "stopId": "301699",
-    "stopName": "R. Tancredo Neves, 46",
+    "stopName": "R. Kenda, 46",
     "position": {
       "lat": -23.437337,
       "lon": -46.803267
@@ -2201,7 +2201,7 @@
   },
   {
     "stopId": "301780",
-    "stopName": "R. Dalva De Oliveira, 75",
+    "stopName": "R. Anamosa, 75",
     "position": {
       "lat": -23.438467,
       "lon": -46.802185
@@ -2209,7 +2209,7 @@
   },
   {
     "stopId": "301783",
-    "stopName": "R. Dos Vitoriosos, 1",
+    "stopName": "R. Anabas, 1",
     "position": {
       "lat": -23.436355,
       "lon": -46.802648
@@ -2217,7 +2217,7 @@
   },
   {
     "stopId": "301784",
-    "stopName": "R. Minas Gerais, 12",
+    "stopName": "R. Amitola, 12",
     "position": {
       "lat": -23.436346,
       "lon": -46.802331
@@ -3973,14 +3973,6 @@
     "position": {
       "lat": -23.537352,
       "lon": -46.588048
-    }
-  },
-  {
-    "stopId": "810607",
-    "stopName": "R. Ulisses Cruz, 85",
-    "position": {
-      "lat": -23.53462,
-      "lon": -46.584707
     }
   },
   {
@@ -6720,14 +6712,6 @@
     }
   },
   {
-    "stopId": "1506086",
-    "stopName": "Av. Jorn. Roberto Marinho, 2200",
-    "position": {
-      "lat": -23.621502,
-      "lon": -46.679781
-    }
-  },
-  {
     "stopId": "1506092",
     "stopName": "Av. Jorn. Roberto Marinho, 2408",
     "position": {
@@ -6869,6 +6853,46 @@
     "position": {
       "lat": -23.626498,
       "lon": -46.661354
+    }
+  },
+  {
+    "stopId": "1506211",
+    "stopName": "Av. Sto. Amaro, 4111",
+    "position": {
+      "lat": -23.619919,
+      "lon": -46.682757
+    }
+  },
+  {
+    "stopId": "1506212",
+    "stopName": "Av. Jorn. Roberto Marinho",
+    "position": {
+      "lat": -23.614356,
+      "lon": -46.693628
+    }
+  },
+  {
+    "stopId": "1506213",
+    "stopName": "Av. Jorn. Roberto Marinho",
+    "position": {
+      "lat": -23.615695,
+      "lon": -46.688801
+    }
+  },
+  {
+    "stopId": "1506214",
+    "stopName": "Av. Jorn. Roberto Marinho",
+    "position": {
+      "lat": -23.621767,
+      "lon": -46.678901
+    }
+  },
+  {
+    "stopId": "1506215",
+    "stopName": "Av. Jorn. Roberto Marinho",
+    "position": {
+      "lat": -23.618302,
+      "lon": -46.683429
     }
   },
   {
@@ -18904,6 +18928,150 @@
     }
   },
   {
+    "stopId": "3015056",
+    "stopName": "Pmd 6052-10",
+    "position": {
+      "lat": -23.77052,
+      "lon": -46.71022
+    }
+  },
+  {
+    "stopId": "3015057",
+    "stopName": "Pmd 6052-31",
+    "position": {
+      "lat": -23.770319,
+      "lon": -46.71035
+    }
+  },
+  {
+    "stopId": "3015058",
+    "stopName": "Pmd 6051-10",
+    "position": {
+      "lat": -23.770153,
+      "lon": -46.710449
+    }
+  },
+  {
+    "stopId": "3015059",
+    "stopName": "Pmd 6051-31",
+    "position": {
+      "lat": -23.770021,
+      "lon": -46.710534
+    }
+  },
+  {
+    "stopId": "3015060",
+    "stopName": "Pmd 6063-10",
+    "position": {
+      "lat": -23.769958,
+      "lon": -46.7107
+    }
+  },
+  {
+    "stopId": "3015061",
+    "stopName": "Pmd 6063-41",
+    "position": {
+      "lat": -23.770108,
+      "lon": -46.710609
+    }
+  },
+  {
+    "stopId": "3015062",
+    "stopName": "Pmd 6063-42",
+    "position": {
+      "lat": -23.770257,
+      "lon": -46.710514
+    }
+  },
+  {
+    "stopId": "3015063",
+    "stopName": "Pmd 6063-21 E 6063-43",
+    "position": {
+      "lat": -23.770424,
+      "lon": -46.710421
+    }
+  },
+  {
+    "stopId": "3015074",
+    "stopName": "Pmd 6082-10",
+    "position": {
+      "lat": -23.770257,
+      "lon": -46.710989
+    }
+  },
+  {
+    "stopId": "3015075",
+    "stopName": "Pmd 6072-23",
+    "position": {
+      "lat": -23.770386,
+      "lon": -46.710908
+    }
+  },
+  {
+    "stopId": "3015076",
+    "stopName": "Pmd 6072-21",
+    "position": {
+      "lat": -23.770534,
+      "lon": -46.710823
+    }
+  },
+  {
+    "stopId": "3015077",
+    "stopName": "Pmd 6072-10",
+    "position": {
+      "lat": -23.770678,
+      "lon": -46.710746
+    }
+  },
+  {
+    "stopId": "3015078",
+    "stopName": "Pmd 6073-10",
+    "position": {
+      "lat": -23.770893,
+      "lon": -46.710593
+    }
+  },
+  {
+    "stopId": "3015079",
+    "stopName": "Pmd 695y-42",
+    "position": {
+      "lat": -23.770198,
+      "lon": -46.711173
+    }
+  },
+  {
+    "stopId": "3015080",
+    "stopName": "Pmd 6l07-10",
+    "position": {
+      "lat": -23.770335,
+      "lon": -46.711083
+    }
+  },
+  {
+    "stopId": "3015081",
+    "stopName": "Pmd 6l10-10",
+    "position": {
+      "lat": -23.770518,
+      "lon": -46.710965
+    }
+  },
+  {
+    "stopId": "3015082",
+    "stopName": "Pmd 6l10-41",
+    "position": {
+      "lat": -23.770731,
+      "lon": -46.710829
+    }
+  },
+  {
+    "stopId": "3015083",
+    "stopName": "Pmd Cocaia",
+    "position": {
+      "lat": -23.770833,
+      "lon": -46.710762
+    }
+  },
+  {
     "stopId": "3015084",
     "stopName": "Av. Rosália Iannini Conde, 59",
     "position": {
@@ -19861,6 +20029,38 @@
     "position": {
       "lat": -23.565693,
       "lon": -46.395908
+    }
+  },
+  {
+    "stopId": "3115354",
+    "stopName": "R. José Garcia Braga, 4",
+    "position": {
+      "lat": -23.553995,
+      "lon": -46.416587
+    }
+  },
+  {
+    "stopId": "3115355",
+    "stopName": "R. José Garcia Braga, 30",
+    "position": {
+      "lat": -23.554142,
+      "lon": -46.416576
+    }
+  },
+  {
+    "stopId": "3115356",
+    "stopName": "Estr. Nsa. Sra. Da Fonte, 1498",
+    "position": {
+      "lat": -23.555143,
+      "lon": -46.416906
+    }
+  },
+  {
+    "stopId": "3115357",
+    "stopName": "Estr. Nsa. Sra. Da Fonte, 4011",
+    "position": {
+      "lat": -23.555404,
+      "lon": -46.416786
     }
   },
   {
@@ -22249,7 +22449,7 @@
   },
   {
     "stopId": "3407124",
-    "stopName": "Plat. Lateral Terminal Água Espraiada, 400",
+    "stopName": "Terminal Água Espraiada, 400",
     "position": {
       "lat": -23.613613,
       "lon": -46.696662
@@ -22305,7 +22505,7 @@
   },
   {
     "stopId": "3407148",
-    "stopName": "Plat. Lateral Terminal Água Espraiada",
+    "stopName": "Terminal Água Espraiada",
     "position": {
       "lat": -23.613208,
       "lon": -46.696368
@@ -22597,6 +22797,14 @@
     "position": {
       "lat": -23.617039,
       "lon": -46.68598
+    }
+  },
+  {
+    "stopId": "3407202",
+    "stopName": "Av. Jorn. Roberto Marinho",
+    "position": {
+      "lat": -23.615407,
+      "lon": -46.688552
     }
   },
   {
@@ -30373,6 +30581,22 @@
     "position": {
       "lat": -23.698079,
       "lon": -46.794813
+    }
+  },
+  {
+    "stopId": "4203954",
+    "stopName": "R. Achairá, 1070",
+    "position": {
+      "lat": -23.697632,
+      "lon": -46.79543
+    }
+  },
+  {
+    "stopId": "4203955",
+    "stopName": "R. Achairá, 1070",
+    "position": {
+      "lat": -23.697796,
+      "lon": -46.795594
     }
   },
   {
@@ -44720,6 +44944,14 @@
     }
   },
   {
+    "stopId": "6607651",
+    "stopName": "Av. Vaticano, 37",
+    "position": {
+      "lat": -23.600959,
+      "lon": -46.795318
+    }
+  },
+  {
     "stopId": "6700055",
     "stopName": "R. Amaral Gurgel, 59",
     "position": {
@@ -45933,14 +46165,6 @@
     "position": {
       "lat": -23.637924,
       "lon": -46.608519
-    }
-  },
-  {
-    "stopId": "6905445",
-    "stopName": "R. Brig. Amílcar Veloso Pederneiras, 713",
-    "position": {
-      "lat": -23.641546,
-      "lon": -46.610942
     }
   },
   {
@@ -47173,6 +47397,14 @@
     "position": {
       "lat": -23.501214,
       "lon": -46.624795
+    }
+  },
+  {
+    "stopId": "7113198",
+    "stopName": "Av. Olavo Fontoura, 1300",
+    "position": {
+      "lat": -23.515426,
+      "lon": -46.642472
     }
   },
   {
@@ -55760,14 +55992,6 @@
     }
   },
   {
-    "stopId": "8412903",
-    "stopName": "Intermunicipal",
-    "position": {
-      "lat": -23.473556,
-      "lon": -46.597793
-    }
-  },
-  {
     "stopId": "8412904",
     "stopName": "Av. Mal. Eurico Gaspar Dutra, 1910",
     "position": {
@@ -56393,7 +56617,7 @@
   },
   {
     "stopId": "8506799",
-    "stopName": "R. Antônio Ferreira De Castilho",
+    "stopName": "R. Antônio Ferreira De Castilho, 126",
     "position": {
       "lat": -23.622922,
       "lon": -46.728718
@@ -56509,6 +56733,14 @@
     "position": {
       "lat": -23.618946,
       "lon": -46.722994
+    }
+  },
+  {
+    "stopId": "8506821",
+    "stopName": "Av. Hebe Camargo, 200",
+    "position": {
+      "lat": -23.620094,
+      "lon": -46.723582
     }
   },
   {
@@ -58497,7 +58729,7 @@
   },
   {
     "stopId": "8914799",
-    "stopName": "Av. Cesar Augusto Romaro, 698",
+    "stopName": "Av. Cesar Augusto Romano, 698",
     "position": {
       "lat": -23.508267,
       "lon": -46.470867
@@ -59696,6 +59928,14 @@
     }
   },
   {
+    "stopId": "9112487",
+    "stopName": "Av. Marginal Direita Do Rio Tietê, 500",
+    "position": {
+      "lat": -23.516518,
+      "lon": -46.731644
+    }
+  },
+  {
     "stopId": "9205546",
     "stopName": "Av. Ricardo Jafet, 690",
     "position": {
@@ -59917,6 +60157,14 @@
     "position": {
       "lat": -23.572471,
       "lon": -46.643109
+    }
+  },
+  {
+    "stopId": "9206381",
+    "stopName": "R. Paula Nei, 480",
+    "position": {
+      "lat": -23.579527,
+      "lon": -46.634786
     }
   },
   {
@@ -65173,14 +65421,6 @@
     "position": {
       "lat": -23.428116,
       "lon": -46.795234
-    }
-  },
-  {
-    "stopId": "30003011",
-    "stopName": "R. Leopoldo De Passos Lima, 915",
-    "position": {
-      "lat": -23.428293,
-      "lon": -46.795587
     }
   },
   {
@@ -80173,22 +80413,6 @@
     "position": {
       "lat": -23.658835,
       "lon": -46.774755
-    }
-  },
-  {
-    "stopId": "190013045",
-    "stopName": "R. Nogueira Do Cravo, 11",
-    "position": {
-      "lat": -23.694231,
-      "lon": -46.793915
-    }
-  },
-  {
-    "stopId": "190013046",
-    "stopName": "R. Nogueira Do Cravo, 20",
-    "position": {
-      "lat": -23.694492,
-      "lon": -46.794085
     }
   },
   {
@@ -114408,14 +114632,6 @@
     }
   },
   {
-    "stopId": "420013325",
-    "stopName": "Estr. Da Baronesa, 2034",
-    "position": {
-      "lat": -23.697377,
-      "lon": -46.766619
-    }
-  },
-  {
     "stopId": "420013326",
     "stopName": "Estr. Da Baronesa, 1717",
     "position": {
@@ -129360,30 +129576,6 @@
     }
   },
   {
-    "stopId": "560009253",
-    "stopName": "Terminal Varginha",
-    "position": {
-      "lat": -23.767485,
-      "lon": -46.716268
-    }
-  },
-  {
-    "stopId": "560009254",
-    "stopName": "Terminal Varginha",
-    "position": {
-      "lat": -23.767393,
-      "lon": -46.716258
-    }
-  },
-  {
-    "stopId": "560009255",
-    "stopName": "Terminal Varginha",
-    "position": {
-      "lat": -23.767299,
-      "lon": -46.716245
-    }
-  },
-  {
     "stopId": "560009256",
     "stopName": "Terminal Varginha",
     "position": {
@@ -140256,14 +140448,6 @@
     }
   },
   {
-    "stopId": "660010673",
-    "stopName": "Av. Circular",
-    "position": {
-      "lat": -23.598962,
-      "lon": -46.776117
-    }
-  },
-  {
     "stopId": "660010674",
     "stopName": "Av. Circular",
     "position": {
@@ -146077,14 +146261,6 @@
     "position": {
       "lat": -23.516007,
       "lon": -46.62536
-    }
-  },
-  {
-    "stopId": "710000955",
-    "stopName": "Av. Cruzeiro Do Sul, 1801",
-    "position": {
-      "lat": -23.516145,
-      "lon": -46.625351
     }
   },
   {
@@ -151912,14 +152088,6 @@
     }
   },
   {
-    "stopId": "750006128",
-    "stopName": "Av. Mateo Bei, 3371",
-    "position": {
-      "lat": -23.610011,
-      "lon": -46.476786
-    }
-  },
-  {
     "stopId": "750006129",
     "stopName": "Av. Mateo Bei, 3244",
     "position": {
@@ -152617,7 +152785,7 @@
   },
   {
     "stopId": "750007384",
-    "stopName": "R. André De Almeida, 1746",
+    "stopName": "R. André De Almeida, 1685",
     "position": {
       "lat": -23.594706,
       "lon": -46.478292
@@ -168025,7 +168193,7 @@
   },
   {
     "stopId": "890004544",
-    "stopName": "Av. Cesar Augusto Romaro, 487",
+    "stopName": "Av. Cesar Augusto Romano, 487",
     "position": {
       "lat": -23.508086,
       "lon": -46.470556
@@ -172221,6 +172389,14 @@
     "position": {
       "lat": -23.579368,
       "lon": -46.632129
+    }
+  },
+  {
+    "stopId": "920016721",
+    "stopName": "Pça. Rosa Alves Da Silva, 328",
+    "position": {
+      "lat": -23.579738,
+      "lon": -46.633066
     }
   },
   {
